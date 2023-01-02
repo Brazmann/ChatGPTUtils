@@ -5,7 +5,7 @@ using Newtonsoft.Json.Linq;
 
 namespace RedditCommentHistory
 {
-    class Program
+    class RedditCommentSearcher
     {
         static void Main(string[] args)
         {
